@@ -4,13 +4,13 @@
 <hr>
 <br>
 
-# Why did I build this?
+## Why did I build this?
 
 I was tired of using mainstream music apps that consume all my data and keeps playing adds every 5 seconds. 
 I was also annoyed at how most apps don't support or need a subscription to pay music with the screen off.
 <br>
 
-# Improvements to be made:
+## Improvements to be made:
 - UI redesign
 - Playback slider
 - More customization options
@@ -19,7 +19,7 @@ I was also annoyed at how most apps don't support or need a subscription to pay 
 - More specific file access permissions
 <br>
 
-# Usage
+## Usage
 
 Feel free to use this for your own personal use! 
 
@@ -35,6 +35,6 @@ Feel free to use this for your own personal use!
 4. Enjoy your tunes!
 <br>
 
-# Contributions
+## Contributions
 
 Contributions are welcome! Just send a PR.
