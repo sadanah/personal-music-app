@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Boombastic" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary text color -->
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <!-- Secondary text color (for subtitles, etc.) -->
+        <item name="android:textColorSecondary">#E0E0E0</item>
+    </style>
+</resources>
